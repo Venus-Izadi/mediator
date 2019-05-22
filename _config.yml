@@ -4,17 +4,17 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: "Venus Izadi"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   "I have a Dream!" ... And these are the steps I am taking to accomplish it!
 
 email: a-mail@mail.mail
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/Profile-photo.jpg"
 float_logo: true # true, false (default)
 
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "/assets/images/BgImage3.jpg"
 
 name: 'Dirk Fabisch'
 author: 'Dirk Fabisch'
@@ -34,10 +34,10 @@ twitter_handle: '@dirkfabisch'
 
 # social icons and sharing options
 social:
-  - icon:	twitter
-    url:	https://twitter.com/dirkfabisch
-    desc: Follow me on twitter
-    share_url: http://twitter.com/share
+  - icon:	linkedin
+    url:	https://www.linkedin.com/in/venus-izadi/
+    desc: Follow me on Linkedin
+    share_url: https://www.linkedin.com/in/venus-izadi/
     share_title: ?text=
     share_link: "&amp;url="
 
@@ -49,8 +49,8 @@ social:
 #    share_link: "&amp;u="
 
   - icon:	github
-    url:	https://github.com/dirkfabisch
-    desc:	Fork me on github
+    url:	https://github.com/Venus-Izadi
+    desc:	My github
     share_url:
     share_title:
     share_link:
